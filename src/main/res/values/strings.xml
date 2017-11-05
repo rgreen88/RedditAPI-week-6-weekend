@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RedditAPI</string>
+    <string name="error">That didn\'t work!</string>
+    <string name="response">Response is:</string>
+</resources>
